@@ -1,0 +1,7 @@
+1.Business requirement document(BRD)
+2.Functional requirement document (FRD)
+3.Data Gathering
+4.Data cleaning / Data transformation
+5.Data modeling
+6.UI(power view reports)
+7.DAX Functions
