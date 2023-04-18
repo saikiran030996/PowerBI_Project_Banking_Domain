@@ -5,3 +5,13 @@
 5.Data modeling
 6.UI(power view reports)
 7.DAX Functions
+8.Enhance UI
+9.RLS(Row level security)
+10.Create workspace and provide the workspace access
+11.Publish the report to the workspace
+12.Dashboard/Mobile view
+13.Gateway
+14.Schedule a refresh
+15.Add roles to security
+16.Subscribe,manage alerts
+17.Share the report
